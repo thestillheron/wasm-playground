@@ -1,0 +1,1 @@
+A simple playground for learning Rust and WASM
